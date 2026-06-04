@@ -85,7 +85,7 @@ class CyberVortexX:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberVortexX&theme=tokyonight&background=0d1117&border=00d9ff&ring=00d9ff&fire=0f3460&currStreakLabel=00d9ff&sideLabels=8892b0&dates=8892b0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CyberVortexX&theme=tokyonight&background=0d1117&border=00d9ff&ring=00d9ff&fire=0f3460&currStreakLabel=00d9ff&sideLabels=8892b0&dates=8892b0" alt="GitHub Streak" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0,0f3460,1a1a2e&height=3&section=footer" />
